@@ -1,4 +1,4 @@
-# mscFS Library#
+# mscFS Library
 
 mscFS is version of SD for use with MSC and uses the new Teensy File System Abstracion class.
 
