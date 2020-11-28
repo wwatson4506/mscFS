@@ -1,6 +1,6 @@
 # mscFS Library
 
-mscFS is a version of SD for use with USB host storage devices and uses the new Teensy File System Abstracion class.
+mscFS is a version of SD for use with USB host mass storeage devices and uses the new Teensy File System Abstracion class.
 
 This library is compatible with SD. It is ment for use with Sdfat and USBHost_t36. It parallels SD and uses FS.h.
 FS.h was not modified but SdFat-parallel had slight modifications to "SdFat.h" and "SdFatConfig.h".
