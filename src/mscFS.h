@@ -24,16 +24,8 @@
 #define __MSCFS_H__
 
 #include <Arduino.h>
+#include <SD.h>
 #include <USBFat.h>
-// Use FILE_READ & FILE_WRITE as defined by FS.h
-#ifdef FILE_READ
-#undef FILE_READ
-#endif
-#ifdef FILE_WRITE
-#undef FILE_WRITE
-#endif
-#include <FS.h>
-
 
 #if defined(__arm__)
   // Support everything on 32 bit boards with enough memory
