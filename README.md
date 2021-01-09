@@ -23,4 +23,4 @@ The actual MSC library Here:
 
 https://github.com/wwatson4506/MSC
 
-is not needed now with the modified version of USBHost_t36. "MasStorageDriver.cpp" and "msc.h" are now contained in my version of USBHost_t36. "MassStorageHost.cpp" and "MassStorage.h" are still available in the four different version of the MSC library.
+is not needed now with the modified version of USBHost_t36. "MasStorageDriver.cpp" and "msc.h" are now contained in my version of USBHost_t36. "MassStorageHost.cpp" and "MassStorage.h" are still available in the four different versions of the MSC library.
