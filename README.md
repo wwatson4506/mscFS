@@ -1,19 +1,19 @@
 # mscFS Library
 
-mscFS is a version of SD for use with USB host mass storeage devices and uses the new Teensy File System Abstracion class.
+mscFS is a version of SD for use with USB host mass storeage devices and parallels the new Teensy File System Abstracion class.
 
 This library is compatible with SD. It is ment for use with Sdfat and USBHost_t36. It parallels SD and does not use FS.h.
 SdFat-parallel had slight modifications to "SdFat.h" and "SdFatConfig.h".
 
-Two libraries must be cloned and installed in the TD1.54B5 libraries folder.
+Two libraries must be cloned and installed in the TD1.54B5 "arduino-1.8.13/hardware/teensy/avr/libraries' folder.
 
-You will need to backup these two libraries:
+You will need to backup these two libraries somewhere to revert back to if needed:
 
 1 - SdFat
 
 2 - USBHost_t36
 
-The two libraries you need with this library are available here:
+The two libraries you need to replace them with are available here:
 
 https://github.com/wwatson4506/SdFat-beta/tree/SdFat-parallel
 
