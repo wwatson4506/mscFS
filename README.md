@@ -19,7 +19,7 @@ https://github.com/wwatson4506/SdFat-beta/tree/SdFat-parallel
 
 https://github.com/wwatson4506/USBHost_t36
 
-The MSC library branches here:
+The four MSC library branches here:
 
 https://github.com/wwatson4506/MSC
 
