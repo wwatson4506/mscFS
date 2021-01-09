@@ -5,7 +5,7 @@ mscFS is a version of SD for use with USB host mass storeage devices and uses th
 This library is compatible with SD. It is ment for use with Sdfat and USBHost_t36. It parallels SD and uses FS.h.
 FS.h was not modified but SdFat-parallel had slight modifications to "SdFat.h" and "SdFatConfig.h".
 
-Three libraries must be cloned and installed in the TD1.54B5 libraries folder.
+Two libraries must be cloned and installed in the TD1.54B5 libraries folder.
 
 You will need to backup these two libraries:
 
