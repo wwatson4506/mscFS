@@ -1,4 +1,6 @@
 # mscFS Library
+## THIS LIBRARY IS OUTDATED !!
+# Use Teensyduino 1.59 Beta 2 and Arduino 1.8.18 or Arduino IDE 2.1.1
 
 mscFS is a version of SD for use with USB host mass storeage devices and parallels the new Teensy File System Abstracion class.
 
